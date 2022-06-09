@@ -62,7 +62,7 @@ Physical chemistry; Electrocatalysis, Electrode process; Water splitting, Oxygen
 
 **[13]** Chun‐Chao Hou, Yu Wang, Lianli Zou, **Miao Wang**, Hongwen Liu, Zheng Liu, Hao‐Fan Wang, Caixia Li, Qiang Xu*, <font color="#800000">A Gas‐Steamed MOF Route to P‐Doped Open Carbon Cages with Enhanced Zn‐Ion Energy Storage Capability and Ultrastability</font>, **Advanced Materials**, 2021, 33, 31, 2101698.
 
-**[12]** **Miao Wang**, Yiqing Wang, Samuel S Mao, Shaohua Shen*, <font color="#800000">Transition-Metal Alloy Electrocatalysts with Active Sites Modulated by Metal-Carbide Heterophases for Efficient Oxygen Evolution</font>, **Nano Energy**, 2021, 88, 106216.
+**[12]** **Miao Wang**, Yiqing Wang, Samuel S Mao, Shaohua Shen*, <font color="#800000">Transition-Metal Alloy Electrocatalysts with Active Sites Modulated by Metal-Carbide Heterophases for Efficient Oxygen Evolution</font>, **Nano Energy**, 2021, 88, 106216. [Highlighted by 邃瞳科学云](https://mp.weixin.qq.com/s/MPE60G4UpJsqfg0D_Od3hw)
 
 **[11]** Hao-Fan Wang, Liyu Chen, **Miao Wang**, Zheng Liu, Qiang Xu*, <font color="#800000">Hollow Spherical Superstructure of Carbon Nanosheets for Bifunctional Oxygen Reduction and Evolution Electrocatalysis</font>, **Nano Letters**, 2021, 21, 8, 3640-3648.
 
@@ -72,7 +72,7 @@ Physical chemistry; Electrocatalysis, Electrode process; Water splitting, Oxygen
 
 **[10]** Yong‐Sheng Wei, Liming Sun, **Miao Wang**, Jinhua Hong, Lianli Zou, Hongwen Liu, Yu Wang, Mei Zhang, Zheng Liu, Yinwei Li, Satoshi Horike, Kazu Suenaga, Qiang Xu*, <font color="#800000">Fabricating dual‐atom iron catalysts for efficient oxygen evolution reaction: a heteroatom modulator approach</font>, **Angewandte Chemie International Edition**, 2020, 59, 37, 16013-16022.
 
-**[9]** **Miao Wang**, Chung-Li Dong, Yu-Cheng Huang, Shaohua Shen*, <font color="#800000">Operando Spectral and Electrochemical Investigation into the Heterophase Stimulated Active Species Transformation in Transition-Metal Sulfides for Efficient Electrocatalytic Oxygen Evolution</font>, **ACS Catalysis**, 2020, 10, 3, 1855–1864.
+**[9]** **Miao Wang**, Chung-Li Dong, Yu-Cheng Huang, Shaohua Shen*, <font color="#800000">Operando Spectral and Electrochemical Investigation into the Heterophase Stimulated Active Species Transformation in Transition-Metal Sulfides for Efficient Electrocatalytic Oxygen Evolution</font>, **ACS Catalysis**, 2020, 10, 3, 1855–1864. [Highlighted by 泊菲莱科技](https://mp.weixin.qq.com/s/JaUki-o1v40ptjKgwNhqlw)
 
 <p style="color:#db5a6b;font-style: italic;font-weight: bold;">
   2019
