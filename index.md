@@ -34,7 +34,7 @@ B.E., Xi’an Jiaotong University (西安交通大学), Xi’an, China
 High school student, NO.1 Middle School affiliated to Central China Normal University (华中师范大学第一附属中学), Wuhan, China
 
 ### Research Interest
-Physical chemistry; Electrocatalysis, Electrode process; Water splitting, Oxygen-based reaction; XAS, Raman; Theoretical calculation
+Physical chemistry; Dynamic electrocatalytic process; XAS, Raman; Theoretical calculation
 
 ### Smart tools
 - [A Program for Wavelet Transform of EXAFS Data from Athena](http://doi.org/10.13140/RG.2.2.11521.61289/1)
